@@ -1,4 +1,4 @@
-'''csharp
+```csharp
 namespace how_to_save_yourself_from_death_in_circle
 {
     public partial class josephus_problem : Form
@@ -38,4 +38,4 @@ namespace how_to_save_yourself_from_death_in_circle
 
     }
 }
-'''
+```
