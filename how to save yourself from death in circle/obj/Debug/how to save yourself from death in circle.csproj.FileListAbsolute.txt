@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2013\Projects\how to save yourself from death in circle\how to save yourself from death in circle\bin\Debug\how to save yourself from death in circle.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\how to save yourself from death in circle\how to save yourself from death in circle\bin\Debug\how to save yourself from death in circle.exe
+c:\users\dell\documents\visual studio 2013\Projects\how to save yourself from death in circle\how to save yourself from death in circle\bin\Debug\how to save yourself from death in circle.pdb
+c:\users\dell\documents\visual studio 2013\Projects\how to save yourself from death in circle\how to save yourself from death in circle\obj\Debug\how to save yourself from death in circle.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\how to save yourself from death in circle\how to save yourself from death in circle\obj\Debug\how_to_save_yourself_from_death_in_circle.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\how to save yourself from death in circle\how to save yourself from death in circle\obj\Debug\how to save yourself from death in circle.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\how to save yourself from death in circle\how to save yourself from death in circle\obj\Debug\how to save yourself from death in circle.exe
+c:\users\dell\documents\visual studio 2013\Projects\how to save yourself from death in circle\how to save yourself from death in circle\obj\Debug\how to save yourself from death in circle.pdb
+c:\users\dell\documents\visual studio 2013\Projects\how to save yourself from death in circle\how to save yourself from death in circle\obj\Debug\how_to_save_yourself_from_death_in_circle.jesophus_problem.resources
